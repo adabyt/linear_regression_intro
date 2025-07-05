@@ -62,11 +62,11 @@ pip install -r requirements.txt
 
 Contents of requirements.txt:
 ```txt
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+matplotlib==3.10.3
+numpy==2.3.1
+pandas==2.3.0
+scikit-learn==1.7.0
+seaborn==0.13.2
 ```
 
 ---
